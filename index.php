@@ -33,7 +33,7 @@
                                 <a class="nav-link" href="#download-section">Download</a>
                               </li>                      
                               <li class="nav-item mt-2">
-                                  <a class="fs-6 nav-item-area" href="lantai1.html">Area Parkir</a>
+                                  <a class="fs-6 nav-item-area" href="lantai1.php">Area Parkir</a>
                               </li>
                             </ul>
                         </div>

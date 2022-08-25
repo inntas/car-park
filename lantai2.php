@@ -20,7 +20,7 @@
       <div class="container">
         <nav class="navbar navbar-expand-lg">
           <div class="container">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="index.php">
               <img src="image/logo.png" style="height: 50px;" class="d-inline-block align-center" alt="">
               <span class="align-items-center text-center fw-bold" style="color: #3B5998;">CarPark</span>
             </a>
@@ -29,7 +29,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
               <div class="navbar-nav ms-auto">
-                <a class="nav-link" href="lantai1.html">Lantai 1</a>
+                <a class="nav-link" href="lantai1.php">Lantai 1</a>
                 <a class="nav-link active" href="#">Lantai 2</a>
               </div>
             </div>
