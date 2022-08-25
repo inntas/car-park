@@ -140,7 +140,7 @@
                   <div class="download-image">
                     <div class="download-shape-1">      
                     </div>
-                    <img src="image/pictandro.png" class="image-download wow fadeInLeftBig" data-wow-delay=".3s" alt="">
+                    <img src="image/pictandro.png" class="image-download wow fadeInLeftBig" data-wow-delay=".2s" alt="">
                   </div>
                 </div>
                 <div class="col-lg-6">
@@ -148,13 +148,13 @@
                     <h1 class="wow fadeInRightBig " data-wow-delay=".3s">Download dan <span>Install</span> </h1>
                     <p class="wow fadeInRightBig " data-wow-delay=".3s">Download dan install aplikasi <span>CarPark</span> di smartphone Anda.</p>
                     <a href="./CarPark.apk" download>
-                      <button type="button" class="mb-3 wow fadeInRightBig btn btn-primary" data-wow-delay=".3s">
+                      <button type="button" class="mb-3 wow fadeInRightBig btn btn-primary" data-wow-delay=".2s">
                         <i class="fas fa-download"></i>
                         Download
                       </button>
                     </a>
                     <br>
-                    <p class="wow fadeInRightBig " data-wow-delay=".3s">
+                    <p class="wow fadeInRightBig " data-wow-delay=".2s">
                         1. Pastikan Anda menggunakkan smartphone <span style="color: #3B5998;">Android</span> <br>
                         2. Klik tombol Download diatas<br>
                         3. Buka Penyimpanan Internal smartphone Anda<br>
