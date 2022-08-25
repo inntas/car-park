@@ -366,9 +366,9 @@ footer{
     .jumbotron-shape-1{
         display: none;
     }
-    .jumbotron-shape-2{
-        width: 50%;
-    }
+    /* .jumbotron-shape-2{
+        display: none;
+    } */
 
     .jumbotron .shape.shapesatu{
         display: none;
@@ -430,6 +430,15 @@ footer{
         border-radius: 50%;
         background: #3B5998;
         animation: animationsatu 2s linear infinite;
+    }
+}
+
+@media screen and (max-width: 810px){
+    .jumbotron-shape-1{
+        display: none;
+    }
+    .jumbotron .shape.shapesatu{
+        display: none;
     }
 }
 
