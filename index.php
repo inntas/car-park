@@ -148,7 +148,7 @@
                     <h1 class="wow fadeInRightBig " data-wow-delay=".3s">Download dan <span>Install</span> </h1>
                     <p class="wow fadeInRightBig " data-wow-delay=".3s">Download dan install aplikasi <span>CarPark</span> di smartphone Anda.</p>
                     <a href="./CarPark.apk" download>
-                      <button type="button" class="mb-3 wow fadeInRightBig btn btn-primary" data-wow-delay=".2s">
+                      <button type="button" class="mb-3 wow fadeInRightBig btn btn-primary" id="btn-download" data-wow-delay=".2s">
                         <i class="fas fa-download"></i>
                         Download
                       </button>
